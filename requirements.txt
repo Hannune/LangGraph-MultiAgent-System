@@ -1,0 +1,6 @@
+finance-datareader
+langchain 
+langgraph 
+langchain-openai 
+gpt-researcher 
+open-interpreter
