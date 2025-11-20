@@ -1,4 +1,4 @@
-# LangGraph-Supervisor-Agent-System
+# LangGraph-MultiAgent-System
 
 A LangGraph-based multi-agent system that coordinates between a researcher agent and a developer agent to handle complex tasks requiring both information gathering and code execution.
 
